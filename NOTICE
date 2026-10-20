@@ -1,0 +1,28 @@
+ucc-sloc
+Copyright (c) 2026 Thomas Mark Schaefer
+
+This repository is original Python. It does not include source code from the
+Unified Code Counter, and it is not a fork of that program. It is released
+under the MIT License. See LICENSE.
+
+The Unified Code Counter (UCC) is a separate program:
+
+  Copyright (C) 2006 - 2018
+  Center for Systems and Software Engineering
+  University of Southern California
+
+UCC is distributed under the USC-CSSE Limited Public License, version 1 or
+any later version, as published with the UCC sources. The license text
+shipped with the 2018.07 sources is at:
+
+  https://github.com/cl0ne/Unified-Code-Counter/blob/master/license.txt
+
+The counting behavior in docs/COUNTING.md follows the public counting
+standards distributed with UCC 2018.07. Those standards remain the work of
+the University of Southern California Center for Systems and Software
+Engineering. JavaScript and TypeScript have no counting standard in that
+release. A number from ucc-sloc is not an official UCC certificate.
+
+The USC-CSSE Limited Public License governs UCC. It does not govern this
+repository. This repository does not contain the UCC program or a portion
+of it.
